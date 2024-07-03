@@ -6,7 +6,7 @@ margin: 0;
 
  header{
 
-    background-color: #00c040;
+    background-color: #32920c;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -18,17 +18,23 @@ margin: 0;
 
     width: 100%;
     font-size: 28px;
+    font-weight: 600;
 }
 
 .cabeçalho-lista-ilustração{
     
     display: inline;
-    margin: 0 28px;
+    margin: 28px;
     font-size: 20px;
+    font-weight: 500;
 }
 
 .imagem-agrinho{
 
     width: 5%;
 }
-  
+
+.margem{
+
+    margin: 22px;
+}
